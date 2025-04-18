@@ -1,0 +1,1 @@
+This program is a console-based Java application that loads a social network graph from a file. It allows users to view a person's direct friends or explore multi-level connections within the network. The program uses classes like Graph, Person, and Connections to manage and navigate the relationships.
